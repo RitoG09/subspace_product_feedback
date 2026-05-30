@@ -122,5 +122,5 @@ In the above, *Effort* is Small/Medium/Large; *Impact* is scored 1–10 (10 = hi
 
 ## 10. Screenshots or Snippets
 ![Calling Feature Failure](./assets/poc1.jpeg)
-![Calling Feature Failure](./assets/poc1.png)
+![Calling Feature Failure](./assets/poc2.png)
 ![Calling Feature Failure](./assets/poc3.png)
